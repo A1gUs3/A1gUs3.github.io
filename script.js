@@ -481,7 +481,7 @@ Feb 2025 - Present | Part-Time
     contact: `Contact Information:
 Email: [Click the email link in the contact section]
 LinkedIn: https://www.linkedin.com/in/agustin-benitez-314140281/
-GitHub: github.com/yourusername
+GitHub: github.com/A1gUs3
 
 Status: Open to opportunities ✓`,
 
